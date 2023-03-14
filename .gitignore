@@ -1,0 +1,4 @@
+# ignore all logs
+_pgbackup/
+_pginfo/
+pinegrow.json
