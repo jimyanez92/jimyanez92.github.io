@@ -14153,3 +14153,8 @@ a.btn svg {
     font-size: .875rem;
     color: #fff;
 }
+
+.div-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
